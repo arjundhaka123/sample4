@@ -1,0 +1,6 @@
+<html>
+	<head>
+		This is a header
+	<title>Sample</title>
+	</head>
+</html>
